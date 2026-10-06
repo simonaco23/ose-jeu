@@ -1,0 +1,10 @@
+{
+  "name": "OSE — Le jeu à 2",
+  "short_name": "OSE",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#221044",
+  "theme_color": "#6C2BD9",
+  "lang": "fr",
+  "icons": []
+}
